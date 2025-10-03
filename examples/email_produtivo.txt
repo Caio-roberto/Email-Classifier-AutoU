@@ -1,0 +1,11 @@
+Prezados,
+
+Estou com um problema urgente no sistema de pagamentos. 
+Quando tento processar um pagamento, recebo o erro "Timeout na conexão". 
+Isso está afetando nossas operações.
+
+Podem verificar e resolver urgentemente?
+
+Atenciosamente,
+João Silva
+Gerente Financeiro
